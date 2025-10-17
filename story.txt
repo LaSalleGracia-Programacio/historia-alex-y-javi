@@ -1,0 +1,16 @@
+🌌 EL ECO DEL COMETA
+
+Despiertas en una pequeña cápsula flotando en medio del espacio. Las luces parpadean débilmente, y un mensaje se repite en la pantalla frente a ti:
+“ALERTA: Sistema de navegación dañado. Coordenadas desconocidas.”
+
+Tu memoria está fragmentada. Solo recuerdas tu nombre: Lyra. Afuera, un cometa azul brillante atraviesa el vacío, dejando un rastro que parece... llamarte.
+
+De pronto, una voz metálica surge del comunicador:
+—Unidad exploradora 07, responde. Detectamos tu señal. ¿Eres hostil?
+
+Tienes tres opciones de estas:
+1. 🔊 Responder con sinceridad: “No soy hostil. Estoy perdida.”
+2. 🛰️ Cortar la comunicación y seguir el rastro del cometa por tu cuenta.
+3. 💾 Acceder al registro de la cápsula para descubrir qué ocurrió antes del accidente.
+
+¿Qué decides hacer?
